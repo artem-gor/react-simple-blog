@@ -1,1 +1,1 @@
-# SimoleBlog
+# React Simple Blog
